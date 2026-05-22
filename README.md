@@ -150,4 +150,4 @@ Full project documentation (abstract, algorithm analysis, complexity analysis, t
 
 ---
 
-*Submitted as part of the Data Structures course — MCA / PG Programme*
+*Submitted as part of the Data Structures course —  MSc Applied Statistics with Data Analytics*
